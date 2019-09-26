@@ -11,6 +11,7 @@
 - Remove files from the staging area before a commit.
 - Commit new and changed files to a git repository.
 
+
 ## Why Git
 
 Version control! As developers our code is our livelihood so it's important
